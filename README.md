@@ -28,3 +28,8 @@ pip install "rembg[GPU]" pillow
 python main.py
 ```
 
+5. Keluar dari virtual environment
+```powershell
+deactivate
+```
+
